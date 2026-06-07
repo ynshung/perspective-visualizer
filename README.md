@@ -23,6 +23,8 @@ An interactive, raw-minimalist web application for visualizing 1-point, 2-point,
 
 If you prefer to work with Google AI Studio (which this project is built with), you may use the following link: https://ai.studio/apps/30339ec3-657e-4e89-8f0c-41a92b517099
 
+One-shot: *Help me create a web app that help me visualize one point, two point and three point perspective, by having the user drag around the points to see the generated cube*
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
