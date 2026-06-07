@@ -1,0 +1,6 @@
+{
+  "name": "Perspective Visualizer",
+  "description": "An interactive web application to visualize 1-point, 2-point, and 3-point perspective rendering of a 3D cube with real-time draggable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
